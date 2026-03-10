@@ -1,8 +1,8 @@
-# MCP - OpenAI implementation through OpenAI apps and local MCP
+# MCP - OpenAI Apps and Local MCP
 
 ## What it does?
 
-This is a working code to demonstrate MCP integration with OpenAI ChatGPT. The integration allows **Creation of Tasks**, and **Completion of Tasks** through prompts. The MCP server is created locally using Node MCP SDK.
+This is a working code to demonstrate MCP integration with OpenAI ChatGPT. The integration allows **Creation of Tasks**, and **Completion of Tasks** through prompts. The MCP server is created on local machine using Node MCP SDK.
 
 The code is for testing use only, to quickly setup and understand MCP integration.
 
